@@ -4,3 +4,4 @@ title = "Book Review System"
 theme = "FixIt"
 
 enableRobotsTXT = true
+publishDir = "docs"
