@@ -7,7 +7,6 @@
     <list default="true" id="dd95354f-4297-4074-9b7e-f65fb6eed4e2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/FixIt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <workItem from="1763747058378" duration="208000" />
       <workItem from="1763747280260" duration="1596000" />
       <workItem from="1763748909452" duration="3597000" />
-      <workItem from="1763759190030" duration="1397000" />
+      <workItem from="1763759190030" duration="1877000" />
     </task>
     <servers />
   </component>
