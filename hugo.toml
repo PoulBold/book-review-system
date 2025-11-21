@@ -1,7 +1,12 @@
 baseURL = "https://book-review-system.info/"
-languageCode = "en-us"
+languageCode = "ru-ru"
 title = "Book Review System"
 theme = "FixIt"
 
-enableRobotsTXT = true
 publishDir = "docs"
+
+[taxonomies]
+category = "categories"
+tag      = "tags"
+
+buildFuture = true
