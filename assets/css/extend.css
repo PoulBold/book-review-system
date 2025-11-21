@@ -1,0 +1,34 @@
+/* Make all summary/list text darker in light theme */
+:root[data-theme="light"] {
+    --summary-color: #222 !important;
+    --text-muted-color: #333 !important;
+    --article-color: #222 !important;
+    --archive-color: #222 !important;
+}
+
+/* Summary text, excerpts, preview blocks */
+:root[data-theme="light"] .summary,
+:root[data-theme="light"] .post-summary,
+:root[data-theme="light"] .article-summary,
+:root[data-theme="light"] .article-entry,
+:root[data-theme="light"] .archive-entry,
+:root[data-theme="light"] .archive-item,
+:root[data-theme="light"] .excerpt {
+    color: #222 !important;
+}
+
+/* Titles in list view */
+:root[data-theme="light"] .summary h1,
+:root[data-theme="light"] .summary h2,
+:root[data-theme="light"] .summary h3,
+:root[data-theme="light"] .article-summary h2,
+:root[data-theme="light"] .archive-item h2 {
+    color: #111 !important;
+}
+
+/* Fix metadata under titles (dates, categories) */
+:root[data-theme="light"] .post-meta,
+:root[data-theme="light"] .article-meta,
+:root[data-theme="light"] .archive-item .post-meta {
+    color: #444 !important;
+}
