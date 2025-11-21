@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://book-review-system.info/"
+languageCode = "en-us"
+title = "Book Review System"
+theme = "FixIt"
+
+enableRobotsTXT = true
