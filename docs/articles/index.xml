@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Book Review System</title>
-    <link>http://localhost:1313/articles/</link>
+    <link>https://book-review-system.info/articles/</link>
     <description>Recent content in Articles on Book Review System</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://book-review-system.info/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Leave Reviews on Amazon the Right Way: Rules, Requirements, and Best Practices</title>
-      <link>http://localhost:1313/articles/amazon-reviews-tutorial-leave-review-correctly/</link>
+      <link>https://book-review-system.info/articles/amazon-reviews-tutorial-leave-review-correctly/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/amazon-reviews-tutorial-leave-review-correctly/</guid>
+      <guid>https://book-review-system.info/articles/amazon-reviews-tutorial-leave-review-correctly/</guid>
       <description>&lt;h2 id=&#34;how-to-leave-reviews-on-amazon-the-right-way-what-you-need-to-know&#34;&gt;How to Leave Reviews on Amazon the Right Way: What You Need to Know&lt;/h2&gt;&#xA;&lt;p&gt;If you shop on Amazon—whether buying books, electronics, household goods or more—you’ve likely noticed how much power the star ratings and written reviews hold. A helpful review can make or break a buyer’s decision. But the process of leaving a review isn’t as simple as “buy → write comment”; Amazon has in place a number of rules and expectations designed to ensure reviews are &lt;strong&gt;honest&lt;/strong&gt;, &lt;strong&gt;authentic&lt;/strong&gt;, and &lt;strong&gt;helpful&lt;/strong&gt; to other shoppers.&lt;/p&gt;</description>
     </item>
   </channel>
