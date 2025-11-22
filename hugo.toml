@@ -1,9 +1,12 @@
 baseURL = "https://book-review-system.info/"
-languageCode = "ru-ru"
+languageCode = "en-us"
 title = "Book Review System"
-theme = "FixIt"
+theme = "Mainroad"
 
 publishDir = "docs"
+
+[pagination]
+pagerSize = 10
 
 [taxonomies]
 category = "categories"
