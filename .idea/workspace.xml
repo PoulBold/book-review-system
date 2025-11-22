@@ -6,7 +6,40 @@
   <component name="ChangeListManager">
     <list default="true" id="dd95354f-4297-4074-9b7e-f65fb6eed4e2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/amzon-book-reviews-rules.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/getting-amazon-book-reviews-5-easy-ways.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/FixIt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/importance-of-amazon-reviews.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/importance-of-amazon-reviews.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/importance-of-amazon-reviews/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/importance-of-amazon-reviews/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/true/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/true/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/true/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/true/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/true/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/true/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,25 +57,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Павло/WebstormProjects/book-review-system&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Павло/WebstormProjects/book-review-system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Павло\WebstormProjects\book-review-system" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Павло\WebstormProjects\book-review-system\content\articles" />
+      <recent name="C:\Users\Павло\WebstormProjects\book-review-system\content\posts" />
       <recent name="C:\Users\Павло\WebstormProjects\book-review-system\config\_default" />
     </key>
   </component>
@@ -67,6 +102,7 @@
       <workItem from="1763759190030" duration="8616000" />
       <workItem from="1763769236550" duration="1725000" />
       <workItem from="1763773588610" duration="491000" />
+      <workItem from="1763845937361" duration="3677000" />
     </task>
     <servers />
   </component>
