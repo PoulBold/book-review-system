@@ -6,8 +6,47 @@
   <component name="ChangeListManager">
     <list default="true" id="dd95354f-4297-4074-9b7e-f65fb6eed4e2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/why-low-content-books-are-hard-to-promote.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/word-search-to-make-money-on-amazom.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/FixIt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/getting-amazon-book-reviews-5-easy-ways.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/getting-amazon-book-reviews-5-easy-ways.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/importance-of-amazon-reviews.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/importance-of-amazon-reviews.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/articles/amazon-reviews-tutorial-leave-review-correctly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/amazon-reviews-tutorial-leave-review-correctly/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/articles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/articles/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/articles/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/get-amazon-reviews-to-boost-your-sales/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/get-amazon-reviews-to-boost-your-sales/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/getting-amazon-book-reviews-5-easy-steps/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/getting-amazon-book-reviews-5-easy-steps/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Mainroad" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Mainroad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Mainroad/i18n/en.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Mainroad/i18n/en.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +109,8 @@
       <workItem from="1763759190030" duration="8616000" />
       <workItem from="1763769236550" duration="1725000" />
       <workItem from="1763773588610" duration="491000" />
-      <workItem from="1763845937361" duration="4501000" />
+      <workItem from="1763845937361" duration="6331000" />
+      <workItem from="1763940243051" duration="3014000" />
     </task>
     <servers />
   </component>

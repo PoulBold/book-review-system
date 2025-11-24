@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Book Review System</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 10:00:00 +0200</lastBuildDate>
     <atom:link href="https://book-review-system.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puzzle Books Publishing</title>
+      <link>https://book-review-system.info/categories/puzzle-books-publishing/</link>
+      <pubDate>Sun, 23 Nov 2025 10:00:00 +0200</pubDate>
+      <guid>https://book-review-system.info/categories/puzzle-books-publishing/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Amazon Reviews for Books</title>
       <link>https://book-review-system.info/categories/amazon-reviews-for-books/</link>
@@ -20,6 +27,13 @@
       <link>https://book-review-system.info/categories/amazon-reviews-guide/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://book-review-system.info/categories/amazon-reviews-guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amazon KDP Publishing</title>
+      <link>https://book-review-system.info/categories/amazon-kdp-publishing/</link>
+      <pubDate>Tue, 18 Nov 2025 12:00:00 +0200</pubDate>
+      <guid>https://book-review-system.info/categories/amazon-kdp-publishing/</guid>
       <description></description>
     </item>
   </channel>

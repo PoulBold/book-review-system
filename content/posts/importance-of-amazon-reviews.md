@@ -7,7 +7,6 @@ slug: "get-amazon-reviews-to-boost-your-sales"
 tags: ["get amazon reviews", "reviews for KDP books"]
 keywords: ["get amazon reviews", "amazon reviews for books", "reviews for KDP books", "kdp book reviews", "fba product reviews", "how to get reviews on amazon"]
 ---
----
 
 ## What Decide the Fate of Your Amazon Sales?
 
