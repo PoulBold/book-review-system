@@ -2,7 +2,7 @@ baseURL = "https://book-review-system.info/"
 languageCode = "en-us"
 title = "Book Review System"
 theme = "Mainroad"
-publishDir = "docs"
+#publishDir = "docs"
 
 # Кол-во постов на странице
 [pagination]
