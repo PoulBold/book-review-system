@@ -6,45 +6,93 @@
   <component name="ChangeListManager">
     <list default="true" id="dd95354f-4297-4074-9b7e-f65fb6eed4e2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/why-low-content-books-are-hard-to-promote.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/word-search-to-make-money-on-amazom.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/goatcounter.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/FixIt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/getting-amazon-book-reviews-5-easy-ways.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/getting-amazon-book-reviews-5-easy-ways.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/importance-of-amazon-reviews.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/importance-of-amazon-reviews.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/articles/amazon-reviews-tutorial-leave-review-correctly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/amazon-reviews-tutorial-leave-review-correctly/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/articles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/articles/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/articles/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-for-books/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/amazon-reviews-guide/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/get-amazon-reviews-to-boost-your-sales/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/get-amazon-reviews-to-boost-your-sales/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/getting-amazon-book-reviews-5-easy-steps/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/getting-amazon-book-reviews-5-easy-steps/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/get-amazon-reviews/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/reviews-for-kdp-books/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/articles/amazon-reviews-tutorial-leave-review-correctly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/articles/amazon-reviews-tutorial-leave-review-correctly/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/articles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/articles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/articles/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/articles/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/articles/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/articles/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/amazon-kdp-publishing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/amazon-kdp-publishing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/amazon-kdp-publishing/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/amazon-kdp-publishing/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/amazon-kdp-publishing/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/amazon-kdp-publishing/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/amazon-reviews-for-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/amazon-reviews-for-books/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/amazon-reviews-for-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/amazon-reviews-for-books/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/amazon-reviews-for-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/amazon-reviews-for-books/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/amazon-reviews-guide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/amazon-reviews-guide/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/amazon-reviews-guide/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/amazon-reviews-guide/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/amazon-reviews-guide/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/amazon-reviews-guide/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/puzzle-books-publishing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/puzzle-books-publishing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/puzzle-books-publishing/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/puzzle-books-publishing/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/puzzle-books-publishing/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/puzzle-books-publishing/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/get-amazon-reviews-to-boost-your-sales/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/get-amazon-reviews-to-boost-your-sales/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/getting-amazon-book-reviews-5-easy-steps/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/getting-amazon-book-reviews-5-easy-steps/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/how-to-publish-word-search-books-on-amazon-kdp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/how-to-publish-word-search-books-on-amazon-kdp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/how-to-sell-puzzle-books-on-amazon-kdp-and-make-money/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/how-to-sell-puzzle-books-on-amazon-kdp-and-make-money/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/why-low-content-books-are-hard-to-promote-on-amazon-kdp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/why-low-content-books-are-hard-to-promote-on-amazon-kdp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/activity-books-amazon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/activity-books-amazon/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/activity-books-amazon/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/activity-books-amazon/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/activity-books-amazon/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/activity-books-amazon/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/activity-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/activity-books/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/activity-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/activity-books/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/activity-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/activity-books/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/amazon-publishing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/amazon-publishing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/amazon-publishing/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/amazon-publishing/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/amazon-publishing/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/amazon-publishing/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/get-amazon-reviews/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/get-amazon-reviews/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/get-amazon-reviews/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/get-amazon-reviews/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/get-amazon-reviews/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/get-amazon-reviews/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-low-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-low-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-low-content/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-low-content/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-low-content/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-low-content/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-marketing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-marketing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-marketing/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-marketing/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-marketing/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-marketing/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-puzzle-publishing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-puzzle-publishing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-puzzle-publishing/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-puzzle-publishing/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-puzzle-publishing/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-puzzle-publishing/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-puzzles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-puzzles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-puzzles/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-puzzles/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-puzzles/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-puzzles/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-reviews/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-reviews/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-reviews/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-reviews/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/kdp-reviews/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/kdp-reviews/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/low-content-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/low-content-books/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/low-content-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/low-content-books/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/low-content-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/low-content-books/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/make-money-kdp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/make-money-kdp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/make-money-kdp/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/make-money-kdp/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/make-money-kdp/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/make-money-kdp/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/puzzle-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/puzzle-books/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/puzzle-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/puzzle-books/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/puzzle-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/puzzle-books/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/reviews-for-kdp-books/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/reviews-for-kdp-books/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/reviews-for-kdp-books/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/reviews-for-kdp-books/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/reviews-for-kdp-books/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/reviews-for-kdp-books/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/sudoku-generator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/sudoku-generator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/sudoku-generator/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/sudoku-generator/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/sudoku-generator/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/sudoku-generator/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/word-search-generator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/word-search-generator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/word-search-generator/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/word-search-generator/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/word-search-generator/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/word-search-generator/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/word-search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/word-search/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/word-search/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/word-search/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/word-search/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/word-search/page/1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Mainroad" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Mainroad" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Mainroad/i18n/en.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Mainroad/i18n/en.yaml" afterDir="false" />
     </list>
@@ -110,7 +158,7 @@
       <workItem from="1763769236550" duration="1725000" />
       <workItem from="1763773588610" duration="491000" />
       <workItem from="1763845937361" duration="6331000" />
-      <workItem from="1763940243051" duration="3014000" />
+      <workItem from="1763940243051" duration="4347000" />
     </task>
     <servers />
   </component>
